@@ -1,0 +1,57 @@
+IUE Request Status             Mon Aug  1 13:05:29 2016
+
+
+Observations requested: 21
+Requested data type(s): mxlo,mxhi
+Compression type: tar
+Data format: NEWSIPS
+
+
+    File Name         Uncompressed File Size (KB)
+
+lwp03136.mxlo                    49.0
+
+lwp03137.mxlo                    49.0
+
+lwp06122.mxlo                    49.0
+
+lwp06299.mxlo                    66.2
+
+lwr01583.mxlo                    49.0
+
+lwr03071.mxlo                    49.0
+
+lwr06494.mxlo                    49.0
+
+lwr12517.mxlo                    49.0
+
+swp01671.mxlo                    66.2
+
+swp03494.mxlo                    49.0
+
+swp07500.mxlo                    49.0
+
+swp15672.mxlo                    49.0
+
+swp16269.mxlo                    49.0
+
+swp16270.mxlo                    66.2
+
+swp16271.mxlo                    51.8
+
+swp22704.mxlo                    49.0
+
+swp22705.mxlo                    49.0
+
+swp22730.mxlo                    49.0
+
+swp26080.mxlo                    49.0
+
+swp26313.mxlo                    49.0
+
+swp27089.mxhi                  1062.7
+
+
+ Number of files to be downloaded = 21
+ Total uncompressed file size (KB) =     2096.6
+
